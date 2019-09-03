@@ -19,7 +19,6 @@ def intensity_based_registration_demo():
     # we start with the identity transformation
     # most likely you will not have to change these
     x = np.array([0., 0., 0.])
-    #hoi
 
     # NOTE: for affine registration you have to initialize
     # more parameters and the scaling parameters should be
